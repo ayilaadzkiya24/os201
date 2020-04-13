@@ -1,3 +1,4 @@
-## Hai!
+## Halooo semuanya!
 Selamat datang di repo saya!
-Saya HADIR!:)
+saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua 
+#DiRumahAja
