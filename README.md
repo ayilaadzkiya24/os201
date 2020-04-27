@@ -5,6 +5,6 @@ saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua
 
 jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat
 
-persiapkan diri untuk melaksanakan ibadah puasa minggu ini bagi yang menjalankannya:)
+Selamat menjalankan ibadah puasa bagi yang menjalankannya:)
 
 #DiRumahAja
