@@ -1,6 +1,8 @@
 ## Selamat Datang di GitHub Pages Ayila Adzkiya S!
 
 Hallo semuanya! Perkenalkan nama saya Ayila Adzkiya S, biasa dipanggil Ayila.
+Saat ini saya menjadi mahasiswa Fakultas Ilmu Komputer Universitas Indonesia dan sedang mempelajari Operation System
+
 Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua, jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat
 
 #DiRumahAja
