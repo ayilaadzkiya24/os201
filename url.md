@@ -1,4 +1,8 @@
-URL for Operation System 
+---
+permalink: /URLs/
+---
+
+## URL for Operation System 
 
 [Kumpulan slide dan soal Operation System](https://os.vlsm.org/)
 
