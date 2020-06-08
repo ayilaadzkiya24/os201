@@ -3,7 +3,7 @@
 Hallo semuanya! Perkenalkan nama saya Ayila Adzkiya S, biasa dipanggil Ayila.
 Saat ini saya menjadi mahasiswa Fakultas Ilmu Komputer Universitas Indonesia dan sedang mempelajari Operation System.
 
-<img src= "https://d1hlpam123zqko.cloudfront.net/702/795/119/-179996986-1t46r4d-f6f8qrlthdjelk0/original/file.jpg">
+<img src= "https://pbs.twimg.com/media/EFcKDuVUcAALfV5?format=jpg&name=4096x4096" >
 
 Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua, jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat.
 
