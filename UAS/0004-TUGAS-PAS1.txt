@@ -1,0 +1,37 @@
+Script started on Mon Jun  8 21:18:11 2020
+ayila.adzkiya@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+ayilaadzkiya24
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-211829-1030-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-211836-b40e-UAS/> echo -e $CEKSAYA
+ayilaadzkiya24 ZCZCSCRIPTSTART 200530-120529 ayilaadzkiya24
+ayilaadzkiya24 ayilaadzkiya24 200530-120719-263f-ayila.adzkiya/ 200530-120719 SEQOK SUMOK 263fb3ba
+ayilaadzkiya24 ayilaadzkiya24 200530-120732-ea0a-ayila.adzkiya/ 200530-120732 SEQOK SUMOK ea0a1689
+ayilaadzkiya24 ayilaadzkiya24 200530-120735-e680-ayila.adzkiya/ 200530-120735 SEQOK SUMOK e680d51d
+ayilaadzkiya24 ayilaadzkiya24 200530-120754-5519-ayila.adzkiya/ 200530-120754 SEQOK SUMOK 5519f747
+ayilaadzkiya24 ZCZCSCRIPTSTOP 200530-120809 SEQOK
+
+200608-211842-cb42-UAS/> echo -e $CEKSEBELA1
+ayilaadzkiya24 ZCZCSCRIPTSTART 200605-153539 azis14
+ayilaadzkiya24 azis14 200605-153610-e3a6-muhammad.azis81/ 200605-153610 SEQOK SUMOK e3a6c48e
+ayilaadzkiya24 azis14 200605-153619-b900-muhammad.azis81/ 200605-153619 SEQOK SUMOK b90028cb
+ayilaadzkiya24 azis14 200605-153629-c18a-muhammad.azis81/ 200605-153629 SEQOK SUMOK c18ae2af
+ayilaadzkiya24 azis14 200605-153639-f012-muhammad.azis81/ 200605-153639 SEQOK SUMOK f0125e1a
+ayilaadzkiya24 ZCZCSCRIPTSTOP 200605-153643 SEQOK
+
+200608-211846-d89d-UAS/> echo -e $CEKSEBELA2
+ayilaadzkiya24 ZCZCSCRIPTSTART 200604-195606 azis14
+ayilaadzkiya24 azkiyaHanna 200604-200524-e72a-azkiya.hanna/ 200604-200524 SEQOK SUMOK e72a76ba
+ayilaadzkiya24 azkiyaHanna 200604-200707-9e5c-azkiya.hanna/ 200604-200707 SEQOK SUMOK 9e5cbc03
+ayilaadzkiya24 azkiyaHanna 200604-200811-8869-azkiya.hanna/ 200604-200811 SEQOK SUMOK 88690a78
+ayilaadzkiya24 azkiyaHanna 200604-200846-755d-azkiya.hanna/ 200604-200846 SEQOK SUMOK 755d1d3f
+ayilaadzkiya24 ZCZCSCRIPTSTOP 200604-200915 SEQOK
+
+200608-211854-7c68-UAS/> exit
+exit
+
+Script done on Mon Jun  8 21:19:00 2020
