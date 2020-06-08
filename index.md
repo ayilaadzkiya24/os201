@@ -1,12 +1,10 @@
-## Selamat datang di GitHub Pages Ayila Adzkiya S!
+## Selamat Datang di GitHub Pages Ayila Adzkiya S!
 
-*Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua
-*Jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat
+Hallo semuanya! Perkenalkan nama saya Ayila Adzkiya S, biasa dipanggil Ayila.
+Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua
+Jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat
 
 #DiRumahAja
-
-## Semangat
-Selamat melaksanakan Ujian Akhir Semester(UAS)!
 
 ## Operation System
 Berikut [URL](URLs/) yang bisa kalian manfaatkan untuk belajar mata kuliah Operation System!😆
