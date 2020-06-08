@@ -13,7 +13,7 @@ Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua, jangan 
 Berikut [URL](URLs/) yang bisa kalian manfaatkan untuk belajar mata kuliah Operation System!😆
 
 ## Contact Me
-[INSTAGRAM](https://instagram.com/alkwrzm) 
+[INSTAGRAM](https://instagram.com/ayiladzky) 
 
 [LINKEDIN](https://www.linkedin.com/in/ayila-adzkiya-sucahyo-168696183/)
 
