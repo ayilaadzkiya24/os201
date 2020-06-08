@@ -1,6 +1,4 @@
-## Selamat datang di GitHubPages Ayila Adzkiya S!
-
-## Haloo semuanya!
+## Selamat datang di GitHub Pages Ayila Adzkiya S!
 
 saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua
 
