@@ -1,8 +1,7 @@
 ## Selamat Datang di GitHub Pages Ayila Adzkiya S!
 
 Hallo semuanya! Perkenalkan nama saya Ayila Adzkiya S, biasa dipanggil Ayila.
-Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua
-Jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat
+Saya HADIR dan melaksanakan aktivitas di rumah demi kebaikan kita semua, jangan lupa untuk selalu jaga kesehatan dan pola makan yang sehat
 
 #DiRumahAja
 
