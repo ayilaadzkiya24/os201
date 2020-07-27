@@ -1,0 +1,78 @@
+REV01 MON JUl 27 19:55:00 WIB 2020
+==================================
+
+Ayila Adzkiya S/A/1806191673/ayilaadzkiya24
+
+a. Buat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini.
+============================================================================
+Pada semester kali ini pelaksanaan mata ajar Operation System (OS) dilakukan dengan 2 metode, yaitu offline dan online. Pada awal semester pembelajaran dilaksanakan secara offline yang berarti pembelajaran dengan cara tatap muka di kelas pada umumnya. Lalu, dikarenakan munculnya pandemi COVID-19 di Indonesia maka dengan terpaksa pembelajaran OS setelah UTS harus dilaksanakan secara online atau menggunakan metode pembelajaran jarak jauh (PJJ). Mahasiswa dapat dengan mudah untuk mempelajari OS dikarenakan untuk seluruh materi, informasi dan kumpulan latihan soal dapat diakses di https://os.vlsm.org/. Lalu, terdapat pula demo untuk memfasilitasi serta mendukung mahasiswa untuk mempelajari materi pada setiap minggunya. Dengan adanya demo ini, mahasiswa menjadi terbantu untuk pemahaman dan dapat pendalami materi tersebut dengan lebih mudah. Selain demo, mahasiswa juga harus membuat memo untuk setiap minggunya, tujuan dari membuat memo ini adalah sebagai bekal untuk UTS. Untuk mempermudah komunikasi, pak Rahmat membuat group OS di WhatsApp. Biasanya WA digunakan untuk membagikan hasil jawaban yang sudah dijelaskan pada saat di kelas, atau informasi penting lainnya yang disampaikan oleh pak Rahmat. Pada saat melakukan metode pembelajaran jarak jauh (PJJ), pertemuan kelas yang biasanya dilakukan 2x seminggu diganti dengan melakukan diskusi pada forum yang telah disediakan di scele. Pak Rahmat dan beberapa dosen OS lainnya juga telah menyediakan video pembelajaran online untuk mempermudah dan dapat memperdalam pemahaman mahasiswa terkait materi yang diberikan. 
+
+b. Bandingkan pelaksanaan pengajaran sebelum dan sesudah UTS.
+=============================================================
+Pengajaran sebelum UTS:
+1) Pembelajaran dilakukan dengan cara tatap muka di kelas 
+2) Apabila telat pada awal jam kelas, harus menunggu terlebih dahulu hingga dipersilahkan masuk ke kelas. Apabila belum datang juga, baru diizinkan masuk saat jam istirahat. 
+3) Dalam 1 sesi kelas, diberikan waktu untuk istirahat selama 5 menit 
+4) Membuat Memo setiap minggunya untuk bekal UTS 
+5) Mahasiswa mendapatkan point tambahan jika bertanya atau menjawab soal dikelas
+
+
+Pengajaran sesudah UTS:
+1) Pembelajaran dilakukan dengan cara online menggunakan scele.cs.ui.ac.id, dapat berupa nonton video yang telah diberikan atau membaca beberapa sumber yang sudah diberikan 
+2) Melakukan sesi tanya jawab menggunakan forum pada scele
+3) Melakukan komunikasi dengan pak Rahmat menggunakan WA di Group OS 
+4) Pengisian absen dilakukan menggunakan forum pada scele secara bergantian 
+5) Jam pembelajaran OS sangat fleksible dalam 1 hari.
+
+c. Bandingkan pelaksanaan UTS OS dengan UTS lainnya.
+====================================================
+Pelaksanaan UTS OS:
+1) Terdiri dari 2 jenis soal, yaitu isian singkat dan essay 
+2) Pelaksanaan ujian masih berbasis kertas
+3) Perbandingan dengan UTS OS tahun lalu, tahun ini lebih banyak mengeluarkan tipe soal programming, lalu tidak ada jenis soal pilihan ganda atau benar/salah
+
+Pelaksanaan UTS lainnya: 
+1) Dilaksanakan secara online
+2) Pengumuman mengenai UAS diunggah di scele.cs.ui.ac.id
+3) Mengerjakan soal di scele.cs.ui.ac.id
+4) Beberapa soal Essay dikerjakan secara manual, yaitu menulis jawaban lalu mengunggah jawaban tersebut di scele dengan menggunakan cam scanner dengan format png atau pdf
+5) UTS SIAK hanya terdiri dari 1 tipe soal yaitu pilihan ganda 
+6) UTS SSP dan UTS Basis Data terdiri dari 3 tipe soal dengan waktu yang sangat padat, yaitu PG, benar/salah dan essay
+7) UTS Statistika dan Probabilitas hanya terdiri dari 1 tipe soal yaitu essai dengan 5 nomor bercabang
+8) UTS Aljabar Linear hanya terdiri dari 1 tipe soal yaitu benar/salah
+9) UTS Analisis Numerik dengan tipe soal essay dan membuat suatu program. Soal essay dikelompokan berdasarkan beberapa topik, mahasiswa dibebaskan memilih soal namun mahasiswa harus memilih minimal 1 soal dari topik tersebut hingga dapat mencapai 100 point. 
+10) UTS Advanced Programming terdiri dari 3 tipe soal yaitu PG, isian singkat, dan mengedit program melalui gitlab.
+11) UTS TBA menggunakan server aren dan memiliki tipe soal essay. 
+
+d. Bandingkan pelaksanaan UAS OS dengan UAS lainnya.
+====================================================
+Pelaksanaan UAS OS:
+1) Terdiri dari beberapa tahap, yaitu dari PAS0 sampai PAS5. 
+2) Dilaksanakan pada tanggal 8 Juni sampai 7 Juli 2020.\
+3) Pada setiap tahapnya, memiliki jangka waktu yang cukup panjang
+4) Pengumuman mengenai UAS OS diumumkan oleh pak Rahmat di Group OS WA
+5) Metode pengumpulannya dengan cara mem-push file ke repo github masing-masing
+6) Pengumpulan file ke repo github ada yang ke UAS pribadi atau UAS kelompok
+7) Untuk setiap tahapnya, membuat UAS Kelompok yang terdiri dari 5-7 anggota 
+8) Pembuatan kelompok dilakukan di github
+9) Pengisian absen untuk setiap tahapnya dilakukan melalui repo github yang telah disediakan oleh pak Rahmat
+10) Soal yang telah diunggah di github harus di decrypt terlebih dahulu
+11) Melakukan enkripsi terlebih dahulu atau menandatangani beberapa file secara digital saat enkripsi.
+
+Pelaksanaan UAS lainnya: 
+1) Hanya terdiri dari 1 tahap saja
+2) Dilaksanakan pada satu waktu saja
+3) Durasi pengerjaan UAS untuk setiap mata kuliah biasanya 2 sampai 3 jam 
+4) Pengumuman mengenai UAS diunggah di scele.cs.ui.ac.id
+5) Mengerjakan soal di scele.cs.ui.ac.id
+6) Sebelum mengerjakan soal UAS, siswa harus menyetujui pakta integritas terlebih dahulu
+7) Soal UAS berupa PG, Isian Singkat, dan Essay. 
+8) Beberapa soal Essay dikerjakan secara manual, yaitu menulis jawaban lalu mengunggah jawaban tersebut di scele dengan menggunakan cam scanner dengan format png atau pdf
+9) Beberapa soal PG, setelah mengerjakan soal PG tersebut siswa dapat langsung melihat nilai yang didapatkan dari soal PG tersebut 
+10) UAS TBA menggunakan server aren 
+11) UAS Statistika dan Probabilitas diawasi dengan menyalakan camera masing-masing melalui google meet dan terdapat pembatasan penggunaan alat elektronik selain laptop.
+12) UAS SSP, UAS SIAK dan UAS Sistem Cerdas bersifat closed book
+13) UAS Advance Programming dan UAS Basis Data memiliki jenis soal untuk melengkapi suatu program 
+14) UAS Analisis Numerik dengan tipe essay membuat suatu program
+15) UAS Aljabar Linear terdiri dari 1 jenis soal yaitu pilihan ganda
+ 
