@@ -1,3 +1,4 @@
+REV02 THU AUG 06 22:02:00 WIB 2020
 REV01 MON JUl 27 19:55:00 WIB 2020
 ==================================
 
@@ -76,3 +77,6 @@ Pelaksanaan UAS lainnya:
 14) UAS Analisis Numerik dengan tipe essay membuat suatu program
 15) UAS Aljabar Linear terdiri dari 1 jenis soal yaitu pilihan ganda
  
+e. Saran Pelaksanaan OS201
+==========================
+Saran untuk PJJ OS yaitu diadakannya kelas sesuai dengan jam perkuliahan OS pada umumnya dengan menggunakan Zoom/Google Meet yang gunanya untuk melakukan tanya jawab sekaligus membahas demo dan materi. Salah satu contohnya dari mata kuliah lain yaitu Statistika dan Probabilitas yang selau mengadakan zoom meeting pada saat jam perkuliahan dan melakukan perekaman video. Lalu saran lain jika tidak ingin menggunakan Zoom/Google Meet yaitu bisa juga dengan mengunggah video lalu memberikan latihan soal untuk setiap jam perkuliahan pada forum di scele dan memberikan nilai untuk mahasiswa yang aktif di forum tersebut. Salah satu mata kuliah yang melaksanakan hal tersebut adalah Basis Data dan Aljabar Linear. 
